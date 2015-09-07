@@ -1,0 +1,15 @@
+03-September-2015
+
+Running virtal machine. OS is WinMe. 
+I plug my USB in, but fail.
+"Is it because firmware?" I try to find answer.
+There's someone ask same question on Vmware community.
+Their answer is that change USB version in virtal machine setting.
+I also try switch to ver 1.1, and it works!
+
+But, well, why can't I use shared folder...?
+
+Ref:
+http://discussions.virtualdr.com/showthread.php?110967-pci-universal-serial-bus-driver
+http://webcache.googleusercontent.com/search?q=cache:d76y_2WS9jsJ:https://communities.vmware.com/message/2255825+PCI+universal+serial+bus+winme&hl=zh-TW&ct=clnk
+https://communities.vmware.com/message/2255825

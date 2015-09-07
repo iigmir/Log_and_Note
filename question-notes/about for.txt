@@ -1,0 +1,16 @@
+I wrote for loop for anti vowel.
+Here's wrong code in abforW.py.
+
+
+And rebuild code in abforR.py
+
+
+
+Question:
+What does "for ahci in text" mean?
+
+
+Answer:
+Loop counter. "for ahci in text" means "ahci" the Counter will loop in "text".
+
+https://en.wikipedia.org/wiki/Loop_counter

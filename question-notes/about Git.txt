@@ -1,0 +1,50 @@
+Here's question about Git.
+I found that most people use Github with Git, so I installed Git.
+
+Firstly I just install Git with Putty. However I found an Interface named TortoiseGit. 
+Therefore, I reinstall Git.
+
+
+
+But that's not ended: There're many old files in Github, so I remove and create new repo again. 
+Just a hard work.
+Then, I push, but fail. I just thaught it's because licence. 
+Right it's a part of problem, but not only this one.
+
+Finally I found that I must pull it before push...
+
+Success, but little tired.
+
+Ref:
+
+https://disp.cc/b/11-8uNO
+
+https://disp.cc/b/11-8uQ1
+
+http://codex.wiki/question/1849004-6838/
+
+http://billy3321.blogspot.tw/2009/02/github-howto.html
+
+https://noootown.wordpress.com/2015/06/19/git-first-use/
+
+http://ptodue.blogspot.tw/2013/09/githubgit-did-not-exit-cleanly-exit.html
+
+=======================
+
+07-September-2015
+
+Well, I try to use Github for Windows...Little easier but still hard working, eh.
+
+
+
+1.After repo created, put files to repo folder.
+
+2.Check "Uncommited changes" appear or not.
+
+3.Give uncommited changes name if appear.
+
+4.Click "Commited changes".
+
+
+
+Just for write till now...

@@ -1,0 +1,31 @@
+30-AUG-2015
+
+My Vim in console messed when in non-English.
+
+Firstly I think it's because encoding. So I try this:
+
+set encoding=utf-8
+set termencoding=utf-8
+set fileencodings=ucs-bom,utf-8,chinese,big5,gbk,sjis,defaul
+
+But it's useless. Still messed. Maybe it's not because encoding.
+
+Then I surf Internet, found someone says it may due to font.
+
+Try to use gVim, it works! Well it must because console!
+
+But how to show non-English text font in console?
+
+Ref:
+http://stackoverflow.com/questions/5166652/how-to-view-utf-8-characters-in-vim-or-gvim
+http://www.dzhang.com/blog/2013/04/02/displaying-chinese-utf-8-characters-in-gvim-on-windows
+http://superuser.com/questions/141956/cant-see-the-chinese-characters-in-vim
+http://blog.csdn.net/rehung/article/details/1794293
+http://www.douban.com/note/145491549/
+http://www.troubleshooters.com/linux/vifont.htm
+http://vim.wikia.com/wiki/The_perfect_programming_font
+http://www.vimer.cn/2009/11/vim%EF%BC%88gvim%EF%BC%89%E7%BC%96%E7%A8%8B%E5%AD%97%E4%BD%93%E6%8E%A8%E8%8D%90.html
+
+Google:
+vim chinese win
+font vim
